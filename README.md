@@ -1,10 +1,14 @@
 # Bruno Gomes GitHub
 
 <p>
-  I am a student at ISART DIGITAL Paris finishing my master degree in the Game Programming field in June <br>
-  I have multiple skills on different programming languages like C, C++, C#, python and java<br>
-  I work with multiples game engine like Unity or Unreal 4 and 5, but I'm leaning towards an Unity specialization<br>
-  If you want to know more about me i recommand to try some of my projects or to go check my portfolio in the link below <br>
+  I am a former student at ISART DIGITAL Paris where I graduated in the Game Programming cursus.
+  I now have a Master's degree in Game Programming which is also an Ingeneer level degree.
+
+  I use Unity or Unreal Engine depending on the projects, I can use Unreal Engine 4-5 and soon 6 to work on any project that needs it. 
+  I use C, C++, C#, python and Blueprints to make my work come alive.
+
+  My best skills and where I'd like to work are Tool programming, Gameplay programming and AI programming. I already have work a lot on all of those fields for multiples projects and on multiples engines. 
+  I am currently looking for a full time job, please contact me if you have any opportunities available I can work remote work or relocation isn't an issue.
 </p>
 
 ### You will find my projects from school and some of my personnal projects 
